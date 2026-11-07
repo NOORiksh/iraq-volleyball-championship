@@ -1,0 +1,11 @@
+{
+  "latestVersionCode": 30,
+  "downloadUrl": "https://github.com/NOORiksh/iraq-volleyball-championship/releases/download/v2.5.14/iraq-volleyball-championship.apk",
+  "downloadUrl64": "https://github.com/NOORiksh/iraq-volleyball-championship/releases/download/v2.5.14/iraq-volleyball-championship-arm64.apk",
+  "downloadUrl32": "https://github.com/NOORiksh/iraq-volleyball-championship/releases/download/v2.5.14/iraq-volleyball-championship-arm.apk",
+  "adminDownloadUrl": "https://github.com/NOORiksh/iraq-volleyball-championship/releases/download/v2.5.14/iraq-volleyball-admin.apk",
+  "adminDownloadUrl64": "https://github.com/NOORiksh/iraq-volleyball-championship/releases/download/v2.5.14/iraq-volleyball-admin-arm64.apk",
+  "adminDownloadUrl32": "https://github.com/NOORiksh/iraq-volleyball-championship/releases/download/v2.5.14/iraq-volleyball-admin-arm.apk",
+  "releaseNotes": "تحديث 2.5.14 — تخفيف الحجم: التحديث صار أخف بكثير (نسخة 64 بت ‏79.7MB بدل 137MB)، والتطبيق يختار نسخة معالج هاتفك تلقائيًا. لا تغيير على المزايا.",
+  "mandatory": true
+}
